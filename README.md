@@ -1,3 +1,3 @@
 about exercise 6:
 
-![image](Images\image.JPG)
+![image](\Images\image.JPG)
